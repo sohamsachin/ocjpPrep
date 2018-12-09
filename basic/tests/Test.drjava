@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file name="Test.java" package="" timestamp="08-Dec-2018 12:06:03">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Test2.java" package="" timestamp="08-Dec-2018 12:14:47">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Test3.java" package="" timestamp="08-Dec-2018 12:24:30">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Test4.java" package="" timestamp="08-Dec-2018 12:46:32">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Test5.java" package="" timestamp="08-Dec-2018 14:31:19">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Multiple.java" package="" timestamp="08-Dec-2018 15:07:04">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+      <file name="Multiple2.java" package="" timestamp="08-Dec-2018 15:10:01">
+        <select from="65" to="65"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
